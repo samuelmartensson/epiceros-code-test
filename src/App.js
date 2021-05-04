@@ -57,7 +57,6 @@ function App() {
             type="text"
             placeholder="Name"
           />
-
           <input type="text" placeholder="Email" />
         </InputWrap>
         <TermsContainer>
